@@ -13,4 +13,4 @@ while (intentsRestants > 0):
     else:
         print("Usuari o contrasenya incorrectes, el queden ", intentsRestants, " intents restants" )
 else:
-    print("Has esgotat tots els teus intents.")
+    print("Introdueix numeros valids")
