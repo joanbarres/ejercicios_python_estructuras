@@ -2,6 +2,7 @@
 # Ejercicios de Python
 
 Este repositorio contiene varios ejercicios de Python junto con las soluciones y explicaciones de cada uno.
+[REPOSITORIO DE GITHUB](https://github.com/joanbarres/ejercicios_python_estructuras)
 
 ## Ejercicio 1
 
